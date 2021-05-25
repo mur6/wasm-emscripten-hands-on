@@ -182,3 +182,12 @@ lerp result: 1.5
 ```
 
 と表示されます。
+
+---
+# おまけ[The WebAssembly Binary Toolkit]
+
+[WebAssembly/wabt: The WebAssembly Binary Toolkit](https://github.com/WebAssembly/wabt)
+wasmのデコンパイル等のいろいろなツールがある
+
+- wasm2c
+- wasm2wat
